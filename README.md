@@ -12,8 +12,8 @@ This project explores what factors influence a car’s resale value, fuel effici
 6. Which cars balance fuel efficiency and resale value best?
 
 ## Data
-- **Source:** Kaggle
-- **Rows:** 156 vehicles
+- **Source:** Kaggle.com
+- **Rows:** 156 vehicle entries
 - **Columns:** Manufacturer, Model, Engine Size, Horsepower, Price, Fuel Efficiency, Resale Value, etc.
 - **Target Features:** Resale Value, Fuel Efficiency, Power Performance Factor
 
@@ -37,4 +37,4 @@ This project explores what factors influence a car’s resale value, fuel effici
 3. Run each cell to view the full analysis, charts, and insights
 
 ##  About Me
-I'm a recent Computer Science graduate lookin to break into data analytics. I am wokring gaining experience trough online resouces and projects like this one that allow me to explore how data connects to real-world industries, especially automotive performance and technology. I created this project to show my curiosity, willingness to learn, and commitment to growing in this field.
+I'm a recent Computer Science graduate looking to break into data analytics. I am working in gaining experience through online resources and projects like this one that allow me to explore how data connects to real-world industries, especially automotive performance and technology. I created this project to show my curiosity, willingness to learn, and commitment to growing in this field.
