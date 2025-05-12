@@ -1,12 +1,13 @@
 # Car Data Analysis
 
 ## Project Description
-This project explores what factors influence a car’s resale value, fuel efficiency, and overall performance using a real-world automotive dataset. I created it as a way to apply what I'm learning about Python, data analysis, and visualization, and to better understand how data can tell a story in the automotive space. 
+This project explores what factors influence a car’s resale value, fuel efficiency, and overall performance. I created it to practice working with real-world data using Python, data analysis, and visualization, and to better understand how data can tell a story in the automotive space.
+ 
 
 ## Questions Explored
 1. What manufacturers have the highest resale value?
 2. What features are most correlated with resale value?
-3. What factors influence performance (Power Performance Factor)?
+3. What factors influence performance?
 4. Do heavier cars tend to have more horsepower?
 5. Which manufacturers offer the best fuel efficiency?
 6. Which cars balance fuel efficiency and resale value best?
@@ -19,7 +20,7 @@ This project explores what factors influence a car’s resale value, fuel effici
 
 ## Tools Used
 - Python (Pandas, Seaborn, Matplotlib)
-- Jupyter Notebook (on VSCode)
+- Jupyter Notebook (in VSCode)
 - GitHub for version control
 
 ## Key Insights
@@ -37,4 +38,5 @@ This project explores what factors influence a car’s resale value, fuel effici
 3. Run each cell to view the full analysis, charts, and insights
 
 ##  About Me
-I'm a recent Computer Science graduate looking to break into data analytics. I am working in gaining experience through online resources and projects like this one that allow me to explore how data connects to real-world industries, especially automotive performance and technology. I created this project to show my curiosity, willingness to learn, and commitment to growing in this field.
+I’m a recent CS grad trying to break into data analytics and build real-world experience. I'm gaining experience through online resources and hands-on projects like this one, which allow me to explore how data connects to real-world industries, especially automotive performance and technology. I made this project to show that I'm curious, willing to learn, and excited to keep growing in this field.
+
